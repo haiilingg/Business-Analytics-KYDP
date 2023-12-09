@@ -2,15 +2,12 @@
 
 
 # About the Data
-This is dataset of 15 European countries covering . This dataset contains a csv table with 9,994 rows and 21 columns.
+This is dataset of 15 European countries covering items such as sales, profit, customer data, shipping information and time to ship. This dataset contains a csv table with 10,000 rows and 28 columns.
 
-[Data Source]()
+[Data Source](https://github.com/haiilingg/Business-Analytics-KYDP/blob/main/Data%20Visualisation/Expert%2B-%2BSuperstore%2B-%2BMaster.xlsx)
 
 # 💡 Highlights
-- The Weeknd was the most streamed artist at 14.2 bilion streams 
-- The most streamed song is Blinding Lights by The Weeknd at 3.7 billion streams, that's nearly a quarter of The Weeknd's total streams!
-- More than half of the songs are in Major mode, while the distribution of the key is quite equal.
-- The year for highest streams was 2022 at 116 billion streams, nearly tripled the total streams in 2020 (24 billion streams).
+
 
 # 📊 Visualization
 Produced a 1-pager dashboard using Power BI.
