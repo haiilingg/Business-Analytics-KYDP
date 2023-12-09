@@ -1,47 +1,47 @@
-# About the Data
-The dataset consists of order information across 15 European countries with 10,000 rows and 28 columns of data. 
+# About the Dataset
+The dataset comprises Superstore order information spanning 15 European countries, consisting of 10,000 rows and 28 columns of data. 
 
-The data includes information such as customer name, order information (order date, manufacturer name, product name, segment, category , sub-category, units sold), location information (country, state, region, city), shipping info (days to ship, ship date, ship mode, ship status) as well as financial information (sales amount, sales forecast, profit, discount).
+The dataset includes a variety of information such as customer details, order details (order date, manufacturer name, product name, segment, category, sub-category, units sold), location details (country, state, region, city), shipping information (days to ship, ship date, ship mode, ship status) and financial data (sales amount, sales forecast, profit, discount).
 
 [Data Source](https://github.com/haiilingg/Business-Analytics-KYDP/blob/main/Data%20Visualisation/Expert%2B-%2BSuperstore%2B-%2BMaster.xlsx)
 
 # Data Cleaning
-These columns (“Profit Per Order”, “Profit Per Customer” and “Profit”) consists of the same data, with “Profit Per Order” having 2 decimal places while the other 2 columns having no decimal places. I have proceeded using the “Profit Per Order” column and deleted the remaining 2 columns as it is more accurate to use data with decimal places instead of rounded up data.
+The columns, namely "Profit Per Order" "Profit Per Customer" and "Profit" contain the same data. However, "Profit Per Order" is represented with 2 decimal places, while the other two columns have no decimal places. I have opted to proceed using the "Profit Per Order" column due to its higher precision and consequently, I have deleted the remaining two columns.
 
-I’ve also removed the “Number of Records” column as the data for all rows is “1”. 
+Additionally, I have removed the "Number of Records" column as its data for all rows is consistently "1."
 
-No null values were discovered and no item data types need to be changed as all the data types are correct.
+Upon inspection, no null values were found and there is no need to change any item data types as all data types are correct.
 
 # Superstore Analysis
-Analysing from the financial perspective as at the end of the day we are looking at how well the Superstore performed in terms of sales and profit. 
+Analysing the Superstore's performance from a financial perspective provides insights into its sales and profit outcomes. 
 
-We can also analyse it from quantity sold and days to ship(actual) as it is also one of the KPIs that determine if the Superstore is performing well.
+Additionally, analysing key performance indicators (KPIs) such as quantity sold and days to ship (actual) contributes to a comprehensive evaluation of the Superstore's overall performance
 
 # 💡 Highlights
-- Actual sales ($2.94 mil) is lower than forecasted sales ($3.85mil), hence more estimated units sold (50.43k) as compared to actual units sold (37.77k).
-- Among the 15 countries, France has the highest sales ($ 859k ) amount while Denmark has the lowest($ 9k).
-- Consumer is the segment with the highest sales ($1.5bil) and profit amount($189k).
-- The highest sales ($ 797k) and profit ($ 97k) for actual days to ship is 4 days.
-- Nearly half of the orders are shipped early (49.2%), followed by shipped late (26.39%) and shipped on time(24.41%).
-- Becky Castell is the customer that purchased the most quantity of products at 37 items.
-- For profit by discount, 0% discount generated the highest profit at $384k, while discounts above 20% is loss making. The % that incurred the highest loss is a 50% discount given as it incurred a loss of $97k.
+- Actual sales amounting to $2.94 million is lower than the forecasted sales of $3.85 million, resulting in an overestimation of units sold (50.43k) compared to the actual units sold (37.77k).
+- Among the 15 countries, France stands out with the highest sales amount of $859k, while Denmark has the lowest at $9k.
+- The Consumer segment leads in both sales ($1.5 billion) and profit ($189k).
+- The highest sales ($797k) and profit ($97k) for actual days to ship occur within a 4-day timeframe.
+- Shipping metrics reveal that nearly half of the orders are shipped early (49.2%), followed by shipped late (26.39%), and shipped on time (24.41%).
+- Becky Castell emerges as the top customer, purchasing the most quantity of products at 37 items.
+- Analyzing profit by discount indicates that a 0% discount generates the highest profit at $384k, while discounts above 20% result in losses. The highest loss percentage is incurred at a 50% discount, leading to a loss of $97k.
 
 # Suggestions for improvement for problems identified
 Problem 1
 -
-All orders with discounts above 20% are loss making.
+All orders with discounts exceeding 20% result in losses. 
 
-Cause: Not having enough profit to cover the cost. As Profit = Selling Price – Cost, since it’s loss making it means the cost is too high or selling price is too low after applying the discount.
+Cause:Insufficient profit margin to cover costs. Given that Profit = Selling Price - Cost, a loss indicates either an excessively high cost or an insufficient selling price after applying the discount.
 
-Solution: To cap the maximum discount % at 20%, or to increase selling price.
+Solution: Consider implementing measures such as capping the maximum discount percentage at 20% or adjusting the selling price upward."
 
 Problem 2
 -
-The actual sales amount is lower than forecasted sales amount; the actual units sold is lesser than forecasted sales unit.
+The actual sales amount is lower than the forecasted sales amount;the actual units sold are less than the forecasted sales units.
 
-Cause: Not selling enough units / selling price marked too low.	
+Cause: Insufficient sales volume or potentially undervalued selling prices.
 
-Solution: To increase the number of customer base to sell to.
+Solution: Consider expanding the customer base to increase sales opportunities.
 
 
 # 📊 Visualization
