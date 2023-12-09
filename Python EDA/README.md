@@ -21,7 +21,7 @@ Identify the most effective marketing strategy and implement it in selected mark
 The dataset comprises 7 columns: 'MarketID,' 'MarketSize,' 'LocationID,' 'AgeOfStore,' 'Promotion,' 'week,' and 'SalesInThousands.' Notably, 'SalesInThousands' is the only numerical column, while the remaining 6 columns are categorical.
 
 ### Analysis Methodology
-To analyse the performance for the 3 types of promotion strategy based on sales across all categorical columns and to analyse the sales by promotion type across the 4 week period.
+To analyze the performance of the three types of promotion strategies based on sales across all categorical columns and to examine sales by promotion type over the 4-week period.
 
 ### Important charts and insights
 The sales by promotion over the 4-week period indicate that Promotion 1 generated the highest sales, while Promotion 2 generated the lowest sales. The sales remained consistent across the 4-week period for all 3 types of promotions.
@@ -52,9 +52,9 @@ The majority of high sales (sales amounts above the median value) are associated
 
 
 ### Conclusion
-Among the 3 promotion types, promotion 1 generates the most sales while promotion 2 generates the least sales. The results are consistent across the analysis for all categories.
+Among the 3 promotion types, Promotion 1 consistently generates the highest sales, while Promotion 2 consistently yields the lowest sales. These findings remain consistent across all analyzed categories.
 
 ### Next steps for the business to take
-- The fast-food chain should adopt promotion 1 as their future marketing strategy to market their new product. 
+- The fast-food chain should adopt Promotion 1 as their future marketing strategy for promoting their new product.
 
-- The markets they should focus on are markets with the following characteristics: Large Market Size, Market ID 3, Location ID between 200-299 and stores aged between 0-5 years as these are the areas that generated the highest sales.
+- The target markets for the business to focus on should include areas with the following characteristics: Large Market Size, Market ID 3, Location ID between 200-299, and stores aged between 0-5 years as these areas demonstrated the highest sales.
