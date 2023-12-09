@@ -1,5 +1,15 @@
+# tldr
+Click [HERE](https://github.com/haiilingg/Business-Analytics-KYDP/blob/main/Python%20EDA/Python%20EDA%20FINAL%20PROJECT-HLT.ipynb) for the Jupyter Notebook where I performed the EDA using Python.
+
+Else, read the information below for the detailed project explanation.
+
 # Fast Food Marketing Campaign A\B Test
-A fast-food chain plans to add a new item to its menu. However, they are still undecided between three possible marketing campaigns for promoting the new product. In order to determine which promotion has the greatest effect on sales, the new item is introduced at locations in several randomly selected markets. A different promotion is used at each location, and the weekly sales of the new item are recorded for the first four weeks.
+A fast-food chain plans to add a new item to its menu. However, they are still undecided between three possible marketing campaigns for promoting the new product. 
+
+In order to determine which promotion has the greatest effect on sales, the new item is introduced at locations in several randomly selected markets. 
+
+A different promotion is used at each location, and the weekly sales of the new item are recorded for the first four weeks.
+![fastfood](https://github.com/haiilingg/Business-Analytics-KYDP/assets/130296433/ed8b75cf-55e4-4f6d-993a-94879397affe)
 
 # Business Goals
 To increase the sales for the new menu item.
@@ -49,4 +59,3 @@ Among the 3 promotion types, promotion 1 generates the most sales while promotio
 - The fast-food chain should adopt promotion 1 as their future marketing strategy to market their new product. 
 
 - The markets they should focus on are markets with the following characteristics: Large Market Size, Market ID 3, Location ID between 200-299 and stores aged between 0-5 years as these are the areas that generated the highest sales.
-
