@@ -1,4 +1,4 @@
-### Business-Analytics-KYDP
+# Business-Analytics-KYDP
 This repository shows the 4 final projects for each of the modules completed for my KYDP TalentLabs Business Analytics Course.
 
 ### 📚 Table of Contents
