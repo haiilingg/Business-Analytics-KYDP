@@ -18,7 +18,7 @@ Analysing from the financial perspective as at the end of the day we are looking
 We can also analyse it from quantity sold and days to ship(actual) as it is also one of the KPIs that determine if the Superstore is performing well.
 
 # 💡 Highlights
-•	Actual sales ($2.94 mil) is lower than forecasted sales ($ 3.85mil), hence more estimated units sold (50.43k) as compared to actual units sold (37.77k).
+•	Actual sales $2.94 mil is lower than forecasted sales $3.85mil, hence more estimated units sold (50.43k) as compared to actual units sold (37.77k).
 •	Among the 15 countries, France has the highest sales ($ 859k ) amount while Denmark has the lowest($ 9k).
 •	Consumer is the segment with the highest sales ($1.5bil) and profit amount($189k).
 •	The highest sales ($ 797k) and profit ($ 97k) for actual days to ship is 4 days.
