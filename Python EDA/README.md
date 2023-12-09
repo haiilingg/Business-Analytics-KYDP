@@ -1,4 +1,4 @@
-# Project Title: Fast Food Marketing Campaign A\B Test
+# Fast Food Marketing Campaign A\B Test
 
 # Business Goals
 To increase the sales for the new menu item.
