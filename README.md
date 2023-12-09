@@ -6,7 +6,7 @@ Module 1. [Data Analytics Plan](https://github.com/haiilingg/Business-Analytics-
 
 Module 2. [Data Wrangling in Microsoft Excel](https://github.com/haiilingg/Business-Analytics-KYDP/tree/main/Data%20Wrangling%20in%20Microsoft%20Excel)
 
-Module 3. [Python EDA]()
+Module 3. [Python EDA](https://github.com/haiilingg/Business-Analytics-KYDP/tree/main/Python%20EDA)
 
 Module 4. [Data Visualisation in Power BI](https://github.com/haiilingg/Business-Analytics-KYDP/tree/main/Data%20Visualisation)
 
