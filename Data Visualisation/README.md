@@ -31,7 +31,7 @@ Problem 1
 -
 All orders with discounts exceeding 20% result in losses. 
 
-Cause:Insufficient profit margin to cover costs. Given that Profit = Selling Price - Cost, a loss indicates either an excessively high cost or an insufficient selling price after applying the discount.
+Hypothesis: Insufficient profit margin to cover costs. Given that Profit = Selling Price - Cost, a loss indicates either an excessively high cost or an insufficient selling price after applying the discount.
 
 Solution: Consider implementing measures such as capping the maximum discount percentage at 20% or adjusting the selling price upward."
 
@@ -39,7 +39,7 @@ Problem 2
 -
 The actual sales amount is lower than the forecasted sales amount;the actual units sold are less than the forecasted sales units.
 
-Cause: Insufficient sales volume or potentially undervalued selling prices.
+Hypothesis: Insufficient sales volume or potentially undervalued selling prices.
 
 Solution: Consider expanding the customer base to increase sales opportunities.
 
