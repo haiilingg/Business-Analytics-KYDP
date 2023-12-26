@@ -47,6 +47,8 @@ Solution: Consider expanding the customer base to increase sales opportunities.
 # 📊 Visualization
 Produced a 1-pager dashboard using Power BI.
 
+Note: Due to the limitations of my Power BI (it's free version), I'm unable to share the link to my dashboard directly.
+
 ![Superstore Dashboard - TalentLabs (1)-1](https://github.com/haiilingg/Business-Analytics-KYDP/assets/130296433/c29df4dc-ba49-410f-953d-5695deb2de2d)
 
 
